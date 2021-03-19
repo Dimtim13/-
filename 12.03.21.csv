@@ -1,0 +1,961 @@
+participant.id_in_session,participant.code,participant.label,participant.payoff,player.id_in_group,player.total_payoff,player.last_round_num,player.decision,player.status,player.serious_ill,player.round_ill,player.profit_from_interaction,player.status_change_state,player.payoff,group.id_in_subsession,subsession.round_number,subsession.total_ill_num_start,subsession.total_ill_num_end,subsession.total_ill_num_show,subsession.current_recovered,subsession.total_dead_num,session.code
+1,edt6ot19,Павлов Никита,-103,2,3,30,Interaction,Healthy,0,,3,0,3,12,1,1,1,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,5,30,Interaction,Healthy,0,,5,0,5,4,1,1,1,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,5,1,1,1,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,5,30,Interaction,Healthy,0,,5,0,5,7,1,1,1,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,4,30,Interaction,Healthy,0,,4,0,4,2,1,1,1,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,3,30,Suspicion,Healthy,0,,3,0,3,10,1,1,1,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,3,30,Suspicion,Healthy,0,,3,0,3,1,1,1,1,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,3,30,Suspicion,Healthy,0,,3,0,3,3,1,1,1,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,0,30,Isolation,Healthy,0,,0,0,0,12,1,1,1,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,5,30,Interaction,Healthy,0,,5,0,5,7,1,1,1,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,5,30,Interaction,Healthy,0,,5,0,5,6,1,1,1,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,5,30,Interaction,Healthy,0,,5,0,5,11,1,1,1,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,0,30,Isolation,Healthy,0,,0,0,0,5,1,1,1,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,4,30,Interaction,Healthy,0,,4,0,4,3,1,1,1,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,4,30,Interaction,Healthy,0,,4,0,4,10,1,1,1,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,5,30,Interaction,Healthy,0,,5,0,5,8,1,1,1,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,0,30,Isolation,Healthy,0,,0,0,0,9,1,1,1,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,5,30,Interaction,Healthy,0,,5,0,5,11,1,1,1,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,5,30,Interaction,Healthy,0,,5,0,5,4,1,1,1,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,5,30,Interaction,Ill,0,0,5,0,5,8,1,1,1,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,3,30,Suspicion,Healthy,0,,3,0,3,2,1,1,1,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,5,30,Interaction,Healthy,0,,5,0,5,6,1,1,1,0,0,0,6c6ztdn7
+23,vea8a62v,,103,2,4,30,Interaction,Healthy,0,,4,0,4,1,1,1,1,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,3,30,Interaction,Healthy,0,,3,0,3,9,1,1,1,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,3,30,Isolation,Healthy,0,,0,0,0,11,2,1,1,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,8,30,Interaction,Healthy,0,,3,0,3,6,2,1,1,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,6,2,1,1,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,10,30,Interaction,Healthy,0,,5,0,5,3,2,1,1,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,9,30,Interaction,Healthy,0,,5,0,5,9,2,1,1,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,8,30,Interaction,Healthy,0,,5,0,5,9,2,1,1,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,4,30,Suspicion,Healthy,0,,1,0,1,7,2,1,1,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,5,30,Suspicion,Healthy,0,,2,0,2,12,2,1,1,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,3,30,Interaction,Healthy,0,,3,0,3,1,2,1,1,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,8,30,Suspicion,Healthy,0,,3,0,3,10,2,1,1,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,8,30,Suspicion,Healthy,0,,3,0,3,2,2,1,1,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,10,30,Interaction,Healthy,0,,5,0,5,4,2,1,1,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,0,30,Isolation,Healthy,0,,0,0,0,1,2,1,1,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,9,30,Interaction,Healthy,0,,5,0,5,5,2,1,1,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,9,30,Interaction,Healthy,0,,5,0,5,5,2,1,1,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,9,30,Interaction,Healthy,0,,4,0,4,10,2,1,1,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,0,30,Isolation,Healthy,0,,0,0,0,7,2,1,1,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,5,30,Isolation,Healthy,0,,0,0,0,8,2,1,1,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,7,30,Suspicion,Healthy,0,,2,0,2,12,2,1,1,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,9,30,Interaction,Ill,0,0,4,0,4,2,2,1,1,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,6,30,Interaction,Healthy,0,,3,0,3,11,2,1,1,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,10,30,Interaction,Healthy,0,,5,0,5,3,2,1,1,0,0,0,6c6ztdn7
+23,vea8a62v,,103,1,9,30,Interaction,Healthy,0,,5,0,5,4,2,1,1,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,6,30,Interaction,Healthy,0,,3,0,3,8,2,1,1,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,6,30,Interaction,Healthy,0,,3,0,3,10,3,1,2,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,11,30,Suspicion,Healthy,0,,3,0,3,4,3,1,2,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,2,3,1,2,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,15,30,Interaction,Healthy,0,,5,0,5,1,3,1,2,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,14,30,Interaction,Healthy,0,,5,0,5,5,3,1,2,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,12,30,Interaction,Healthy,0,,4,0,4,9,3,1,2,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,7,30,Suspicion,Healthy,0,,3,0,3,6,3,1,2,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,8,30,Suspicion,Healthy,0,,3,0,3,9,3,1,2,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,3,30,Isolation,Healthy,0,,0,0,0,10,3,1,2,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,11,30,Suspicion,Healthy,0,,3,0,3,8,3,1,2,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,10,30,Suspicion,Healthy,0,,2,0,2,3,3,1,2,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,13,30,Suspicion,Ill,0,3,3,0,3,12,3,1,2,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,2,30,Suspicion,Healthy,0,,2,0,2,11,3,1,2,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,13,30,Interaction,Healthy,0,,4,0,4,8,3,1,2,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,14,30,Interaction,Healthy,0,,5,0,5,7,3,1,2,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,11,30,Suspicion,Healthy,0,,2,0,2,3,3,1,2,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,1,30,Suspicion,Healthy,0,,1,0,1,2,3,1,2,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,9,30,Interaction,Healthy,0,,4,0,4,4,3,1,2,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,12,30,Interaction,Healthy,0,,5,0,5,5,3,1,2,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,13,30,Interaction,Ill,0,0,4,0,4,12,3,1,2,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,11,30,Interaction,Healthy,0,,5,0,5,7,3,1,2,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,15,30,Interaction,Healthy,0,,5,0,5,1,3,1,2,0,0,0,6c6ztdn7
+23,vea8a62v,,103,2,13,30,Interaction,Healthy,0,,4,0,4,6,3,1,2,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,8,30,Suspicion,Healthy,0,,2,0,2,11,3,1,2,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,10,30,Interaction,Healthy,0,,4,0,4,7,4,2,2,1,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,11,30,Isolation,Healthy,0,,0,0,0,2,4,2,2,1,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,12,4,2,2,1,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,18,30,Interaction,Healthy,0,,3,0,3,2,4,2,2,1,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,18,30,Interaction,Healthy,0,,4,0,4,3,4,2,2,1,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,16,30,Interaction,Healthy,0,,4,0,4,8,4,2,2,1,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,10,30,Suspicion,Healthy,0,,3,0,3,8,4,2,2,1,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,11,30,Suspicion,Healthy,0,,3,0,3,5,4,2,2,1,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,3,30,Isolation,Healthy,0,,0,0,0,10,4,2,2,1,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,14,30,Suspicion,Healthy,0,,3,0,3,7,4,2,2,1,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,13,30,Suspicion,Healthy,0,,3,0,3,9,4,2,2,1,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,15,30,Suspicion,Ill,0,3,2,0,2,6,4,2,2,1,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,4,30,Suspicion,Healthy,0,,2,0,2,1,4,2,2,1,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,17,30,Interaction,Healthy,0,,4,0,4,5,4,2,2,1,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,19,30,Interaction,Healthy,0,,5,0,5,4,4,2,2,1,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,14,30,Suspicion,Healthy,0,,3,0,3,3,4,2,2,1,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,3,30,Suspicion,Healthy,0,,2,0,2,6,4,2,2,1,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,12,30,Interaction,Healthy,0,,3,0,3,12,4,2,2,1,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,17,30,Interaction,Healthy,0,,5,0,5,11,4,2,2,1,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,18,30,Interaction,Ill,0,0,5,1,5,11,4,2,2,1,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,14,30,Interaction,Healthy,0,,3,0,3,10,4,2,2,1,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,20,30,Interaction,Healthy,0,,5,0,5,4,4,2,2,1,0,0,6c6ztdn7
+23,vea8a62v,,103,1,17,30,Interaction,Healthy,0,,4,0,4,9,4,2,2,1,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,10,30,Suspicion,Healthy,0,,2,0,2,1,4,2,2,1,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,14,30,Interaction,Healthy,0,,4,0,4,11,5,2,2,1,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,11,30,Isolation,Healthy,0,,0,0,0,6,5,2,2,1,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,5,5,2,2,1,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,20,30,Suspicion,Healthy,0,,2,0,2,7,5,2,2,1,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,22,30,Interaction,Healthy,0,,4,0,4,2,5,2,2,1,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,20,30,Interaction,Healthy,0,,4,0,4,10,5,2,2,1,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,12,30,Suspicion,Healthy,0,,2,0,2,7,5,2,2,1,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,14,30,Suspicion,Healthy,0,,3,0,3,4,5,2,2,1,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,7,30,Interaction,Healthy,0,,4,0,4,8,5,2,2,1,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,16,30,Suspicion,Healthy,0,,2,0,2,1,5,2,2,1,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,16,30,Suspicion,Healthy,0,,3,0,3,12,5,2,2,1,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,18,30,Suspicion,Ill,0,3,3,0,3,11,5,2,2,1,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,7,30,Suspicion,Healthy,0,,3,0,3,2,5,2,2,1,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,21,30,Interaction,Healthy,0,,4,0,4,4,5,2,2,1,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,24,30,Interaction,Healthy,0,,5,0,5,9,5,2,2,1,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,15,30,Suspicion,Healthy,0,,1,0,1,5,5,2,2,1,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,5,30,Suspicion,Healthy,0,,2,0,2,1,5,2,2,1,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,17,30,Interaction,Healthy,0,,5,0,5,9,5,2,2,1,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,20,30,Suspicion,Healthy,0,,3,0,3,8,5,2,2,1,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,22,30,Interaction,Ill,0,0,4,0,4,12,5,2,2,1,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,18,30,Interaction,Healthy,0,,4,0,4,3,5,2,2,1,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,23,30,Interaction,Healthy,0,,3,0,3,6,5,2,2,1,0,0,6c6ztdn7
+23,vea8a62v,,103,2,20,30,Suspicion,Healthy,0,,3,0,3,10,5,2,2,1,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,13,30,Suspicion,Healthy,0,,3,0,3,3,5,2,2,1,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,19,30,Interaction,Ill,0,6,5,0,5,11,6,2,3,1,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,11,30,Isolation,Healthy,0,,0,0,0,5,6,2,3,1,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,8,6,2,3,1,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,23,30,Suspicion,Healthy,0,,3,0,3,7,6,2,3,1,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,26,30,Interaction,Healthy,0,,4,0,4,7,6,2,3,1,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,24,30,Interaction,Healthy,0,,4,0,4,12,6,2,3,1,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,14,30,Suspicion,Healthy,0,,2,0,2,4,6,2,3,1,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,15,30,Suspicion,Healthy,0,,1,0,1,9,6,2,3,1,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,7,30,Isolation,Healthy,0,,0,0,0,9,6,2,3,1,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,19,30,Suspicion,Healthy,0,,3,0,3,12,6,2,3,1,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,18,30,Suspicion,Healthy,0,,2,0,2,2,6,2,3,1,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,20,30,Suspicion,Ill,0,3,2,0,2,4,6,2,3,1,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,9,30,Suspicion,Healthy,0,,2,0,2,1,6,2,3,1,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,24,30,Interaction,Healthy,0,,3,0,3,5,6,2,3,1,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,28,30,Interaction,Healthy,0,,4,0,4,10,6,2,3,1,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,16,30,Suspicion,Healthy,0,,1,0,1,8,6,2,3,1,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,8,30,Suspicion,Healthy,0,,3,0,3,10,6,2,3,1,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,22,30,Interaction,Healthy,0,,5,0,5,3,6,2,3,1,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,21,30,Suspicion,Healthy,0,,1,0,1,6,6,2,3,1,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,27,30,Interaction,Ill,0,0,5,0,5,11,6,2,3,1,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,23,30,Interaction,Healthy,0,,5,0,5,3,6,2,3,1,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,25,30,Suspicion,Healthy,0,,2,0,2,1,6,2,3,1,0,0,6c6ztdn7
+23,vea8a62v,,103,2,20,30,Isolation,Healthy,0,,0,0,0,6,6,2,3,1,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,15,30,Suspicion,Healthy,0,,2,0,2,2,6,2,3,1,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,23,30,Interaction,Ill,0,6,4,0,4,6,7,3,4,2,1,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,14,30,Interaction,Healthy,0,,3,0,3,12,7,3,4,2,1,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,12,7,3,4,2,1,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,26,30,Suspicion,Healthy,0,,3,0,3,6,7,3,4,2,1,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,31,30,Interaction,Healthy,0,,5,0,5,5,7,3,4,2,1,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,26,30,Suspicion,Healthy,0,,2,0,2,2,7,3,4,2,1,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,17,30,Suspicion,Healthy,0,,3,0,3,4,7,3,4,2,1,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,17,30,Suspicion,Healthy,0,,2,0,2,10,7,3,4,2,1,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,10,30,Suspicion,Healthy,0,,3,0,3,11,7,3,4,2,1,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,22,30,Suspicion,Healthy,0,,3,0,3,9,7,3,4,2,1,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,20,30,Suspicion,Healthy,0,,2,0,2,1,7,3,4,2,1,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,24,30,Interaction,Ill,0,3,4,1,4,7,7,3,4,2,1,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,11,30,Suspicion,Healthy,0,,2,0,2,2,7,3,4,2,1,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,28,30,Interaction,Healthy,0,,4,0,4,4,7,3,4,2,1,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,33,30,Interaction,Healthy,0,,5,0,5,5,7,3,4,2,1,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,18,30,Suspicion,Healthy,0,,2,0,2,1,7,3,4,2,1,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,12,30,Interaction,Healthy,0,,4,0,4,9,7,3,4,2,1,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,24,30,Suspicion,Healthy,0,,2,0,2,10,7,3,4,2,1,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,24,30,Suspicion,Healthy,0,,3,0,3,8,7,3,4,2,1,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-169,30,Interaction,Recovered,1,0,4,1,-196,8,7,3,4,2,1,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,27,30,Interaction,Healthy,0,,4,0,4,11,7,3,4,2,1,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,28,30,Suspicion,Ill,0,7,3,0,3,7,7,3,4,2,1,0,6c6ztdn7
+23,vea8a62v,,103,2,24,30,Interaction,Healthy,0,,4,0,4,3,7,3,4,2,1,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,18,30,Suspicion,Healthy,0,,3,0,3,3,7,3,4,2,1,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,26,30,Suspicion,Ill,0,6,3,0,3,8,8,4,4,2,1,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,17,30,Interaction,Healthy,0,,3,0,3,3,8,4,4,2,1,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,10,8,4,4,2,1,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,28,30,Suspicion,Healthy,0,,2,0,2,4,8,4,4,2,1,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,36,30,Interaction,Healthy,0,,5,0,5,1,8,4,4,2,1,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,28,30,Suspicion,Healthy,0,,2,0,2,11,8,4,4,2,1,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,19,30,Suspicion,Healthy,0,,2,0,2,7,8,4,4,2,1,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,19,30,Suspicion,Healthy,0,,2,0,2,5,8,4,4,2,1,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,12,30,Suspicion,Healthy,0,,2,0,2,11,8,4,4,2,1,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,24,30,Suspicion,Healthy,0,,2,0,2,9,8,4,4,2,1,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,23,30,Suspicion,Healthy,0,,3,0,3,2,8,4,4,2,1,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,24,30,Isolation,Ill,0,3,0,0,0,3,8,4,4,2,1,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,13,30,Suspicion,Healthy,0,,2,0,2,5,8,4,4,2,1,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,32,30,Interaction,Healthy,0,,4,0,4,2,8,4,4,2,1,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,38,30,Interaction,Healthy,0,,5,0,5,1,8,4,4,2,1,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,21,30,Suspicion,Healthy,0,,3,0,3,6,8,4,4,2,1,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,16,30,Interaction,Healthy,0,,4,0,4,8,8,4,4,2,1,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,29,30,Interaction,Healthy,0,,5,0,5,12,8,4,4,2,1,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,26,30,Suspicion,Healthy,0,,2,0,2,7,8,4,4,2,1,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-166,30,Interaction,Recovered,0,0,3,0,3,10,8,4,4,2,1,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,31,30,Interaction,Healthy,0,,4,0,4,6,8,4,4,2,1,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,33,30,Interaction,Ill,0,7,5,0,5,12,8,4,4,2,1,0,6c6ztdn7
+23,vea8a62v,,103,2,26,30,Suspicion,Healthy,0,,2,0,2,9,8,4,4,2,1,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,20,30,Suspicion,Healthy,0,,2,0,2,4,8,4,4,2,1,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,30,30,Interaction,Ill,0,6,4,0,4,11,9,4,4,2,1,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,21,30,Interaction,Healthy,0,,4,0,4,2,9,4,4,2,1,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,8,9,4,4,2,1,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,30,30,Suspicion,Healthy,0,,2,0,2,7,9,4,4,2,1,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,40,30,Interaction,Healthy,0,,4,0,4,10,9,4,4,2,1,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,31,30,Suspicion,Healthy,0,,3,0,3,3,9,4,4,2,1,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,20,30,Suspicion,Healthy,0,,1,0,1,1,9,4,4,2,1,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,22,30,Suspicion,Healthy,0,,3,0,3,9,9,4,4,2,1,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,17,30,Interaction,Healthy,0,,5,0,5,6,9,4,4,2,1,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,26,30,Suspicion,Healthy,0,,2,0,2,4,9,4,4,2,1,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,25,30,Suspicion,Healthy,0,,2,0,2,4,9,4,4,2,1,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,24,30,Isolation,Ill,0,3,0,0,0,1,9,4,4,2,1,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,15,30,Suspicion,Healthy,0,,2,0,2,7,9,4,4,2,1,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,37,30,Interaction,Healthy,0,,5,0,5,6,9,4,4,2,1,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,41,30,Interaction,Healthy,0,,3,0,3,8,9,4,4,2,1,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,24,30,Suspicion,Healthy,0,,3,0,3,10,9,4,4,2,1,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,20,30,Interaction,Healthy,0,,4,0,4,5,9,4,4,2,1,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,33,30,Interaction,Healthy,0,,4,0,4,3,9,4,4,2,1,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,29,30,Suspicion,Healthy,0,,3,0,3,5,9,4,4,2,1,0,6c6ztdn7
+20,1pam1cqo,,-73,2,-162,30,Interaction,Recovered,0,0,4,0,4,9,9,4,4,2,1,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,36,30,Interaction,Healthy,0,,5,0,5,12,9,4,4,2,1,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,36,30,Suspicion,Ill,0,7,3,0,3,11,9,4,4,2,1,0,6c6ztdn7
+23,vea8a62v,,103,1,31,30,Interaction,Healthy,0,,5,0,5,12,9,4,4,2,1,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,23,30,Suspicion,Healthy,0,,3,0,3,2,9,4,4,2,1,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,30,30,Isolation,Ill,0,6,0,1,0,5,10,4,4,3,2,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,23,30,Suspicion,Healthy,0,,2,0,2,1,10,4,4,3,2,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,4,10,4,4,3,2,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,33,30,Suspicion,Healthy,0,,3,0,3,7,10,4,4,3,2,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,43,30,Interaction,Healthy,0,,3,0,3,3,10,4,4,3,2,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,35,30,Interaction,Healthy,0,,4,0,4,6,10,4,4,3,2,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,21,30,Suspicion,Healthy,0,,1,0,1,5,10,4,4,3,2,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,24,30,Suspicion,Healthy,0,,2,0,2,11,10,4,4,3,2,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,20,30,Suspicion,Healthy,0,,3,0,3,6,10,4,4,3,2,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,29,30,Suspicion,Healthy,0,,3,0,3,10,10,4,4,3,2,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,27,30,Suspicion,Healthy,0,,2,0,2,2,10,4,4,3,2,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,24,30,Isolation,Recovered,0,3,0,1,0,3,10,4,4,3,2,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,17,30,Suspicion,Healthy,0,,2,0,2,11,10,4,4,3,2,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,40,30,Interaction,Healthy,0,,3,0,3,4,10,4,4,3,2,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,45,30,Interaction,Healthy,0,,4,0,4,10,10,4,4,3,2,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,29,30,Interaction,Healthy,0,,5,0,5,12,10,4,4,3,2,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,23,30,Suspicion,Healthy,0,,3,0,3,9,10,4,4,3,2,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,35,30,Suspicion,Healthy,0,,2,0,2,2,10,4,4,3,2,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,31,30,Suspicion,Healthy,0,,2,0,2,1,10,4,4,3,2,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-158,30,Interaction,Recovered,0,0,4,0,4,9,10,4,4,3,2,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,41,30,Interaction,Healthy,0,,5,0,5,12,10,4,4,3,2,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,39,30,Suspicion,Ill,0,7,3,0,3,8,10,4,4,3,2,0,6c6ztdn7
+23,vea8a62v,,103,2,35,30,Interaction,Healthy,0,,4,0,4,8,10,4,4,3,2,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,27,30,Interaction,Healthy,0,,4,0,4,7,10,4,4,3,2,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,35,30,Interaction,Ill,0,6,5,0,5,6,11,4,5,4,2,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,25,30,Suspicion,Healthy,0,,2,0,2,10,11,4,5,4,2,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,4,11,4,5,4,2,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,36,30,Suspicion,Healthy,0,,3,0,3,2,11,4,5,4,2,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,48,30,Interaction,Healthy,0,,5,0,5,1,11,4,5,4,2,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,39,30,Interaction,Healthy,0,,4,0,4,11,11,4,5,4,2,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,22,30,Suspicion,Healthy,0,,1,0,1,4,11,4,5,4,2,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,26,30,Suspicion,Healthy,0,,2,0,2,7,11,4,5,4,2,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,23,30,Suspicion,Healthy,0,,3,0,3,8,11,4,5,4,2,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,31,30,Suspicion,Healthy,0,,2,0,2,10,11,4,5,4,2,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,29,30,Suspicion,Healthy,0,,2,0,2,7,11,4,5,4,2,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,28,30,Interaction,Recovered,0,3,4,0,4,2,11,4,5,4,2,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,20,30,Suspicion,Healthy,0,,3,0,3,11,11,4,5,4,2,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,44,30,Interaction,Healthy,0,,4,0,4,8,11,4,5,4,2,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,47,30,Suspicion,Healthy,0,,2,0,2,9,11,4,5,4,2,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,31,30,Suspicion,Healthy,0,,2,0,2,9,11,4,5,4,2,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,28,30,Interaction,Ill,0,11,5,0,5,6,11,4,5,4,2,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,39,30,Interaction,Healthy,0,,4,0,4,12,11,4,5,4,2,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,34,30,Suspicion,Healthy,0,,3,0,3,12,11,4,5,4,2,0,6c6ztdn7
+20,1pam1cqo,,-73,2,-155,30,Interaction,Recovered,0,0,3,0,3,3,11,4,5,4,2,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,45,30,Interaction,Healthy,0,,4,0,4,5,11,4,5,4,2,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,39,30,Isolation,Ill,0,7,0,1,0,3,11,4,5,4,2,0,6c6ztdn7
+23,vea8a62v,,103,1,38,30,Suspicion,Healthy,0,,3,0,3,5,11,4,5,4,2,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,32,30,Interaction,Healthy,0,,5,0,5,1,11,4,5,4,2,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,40,30,Interaction,Ill,0,6,5,0,5,2,12,5,7,4,2,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,28,30,Suspicion,Healthy,0,,3,0,3,9,12,5,7,4,2,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,8,12,5,7,4,2,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,39,30,Suspicion,Healthy,0,,3,0,3,11,12,5,7,4,2,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,53,30,Interaction,Ill,0,12,5,0,5,2,12,5,7,4,2,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,42,30,Suspicion,Healthy,0,,3,0,3,6,12,5,7,4,2,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,24,30,Suspicion,Healthy,0,,2,0,2,1,12,5,7,4,2,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,27,30,Suspicion,Healthy,0,,1,0,1,8,12,5,7,4,2,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,24,30,Suspicion,Healthy,0,,1,0,1,10,12,5,7,4,2,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,31,30,Isolation,Healthy,0,,0,0,0,4,12,5,7,4,2,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,29,30,Isolation,Healthy,0,,0,0,0,4,12,5,7,4,2,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,32,30,Interaction,Recovered,0,3,4,0,4,7,12,5,7,4,2,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,24,30,Interaction,Healthy,0,,4,0,4,6,12,5,7,4,2,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,49,30,Interaction,Ill,0,12,5,0,5,5,12,5,7,4,2,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,48,30,Suspicion,Healthy,0,,1,0,1,3,12,5,7,4,2,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,33,30,Suspicion,Healthy,0,,2,0,2,1,12,5,7,4,2,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,33,30,Interaction,Ill,0,11,5,0,5,5,12,5,7,4,2,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,43,30,Interaction,Healthy,0,,4,0,4,12,12,5,7,4,2,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,37,30,Suspicion,Healthy,0,,3,0,3,7,12,5,7,4,2,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-151,30,Interaction,Recovered,0,0,4,0,4,11,12,5,7,4,2,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,49,30,Interaction,Healthy,0,,4,0,4,9,12,5,7,4,2,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,39,30,Isolation,Ill,0,7,0,0,0,10,12,5,7,4,2,0,6c6ztdn7
+23,vea8a62v,,103,1,38,30,Isolation,Healthy,0,,0,0,0,3,12,5,7,4,2,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,35,30,Suspicion,Healthy,0,,3,0,3,12,12,5,7,4,2,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-155,30,Interaction,Recovered,1,6,5,1,-195,8,13,7,8,4,3,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,32,30,Interaction,Healthy,0,,4,0,4,12,13,7,8,4,3,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,6,13,7,8,4,3,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,42,30,Suspicion,Healthy,0,,3,0,3,5,13,7,8,4,3,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,57,30,Interaction,Ill,0,12,4,0,4,1,13,7,8,4,3,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,44,30,Suspicion,Healthy,0,,2,0,2,3,13,7,8,4,3,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,25,30,Suspicion,Healthy,0,,1,0,1,10,13,7,8,4,3,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,30,30,Suspicion,Healthy,0,,3,0,3,2,13,7,8,4,3,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,27,30,Suspicion,Healthy,0,,3,0,3,7,13,7,8,4,3,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,32,30,Suspicion,Healthy,0,,1,0,1,9,13,7,8,4,3,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,29,30,Isolation,Healthy,0,,0,0,0,9,13,7,8,4,3,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,37,30,Interaction,Recovered,0,3,5,0,5,8,13,7,8,4,3,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,28,30,Interaction,Healthy,0,,4,0,4,2,13,7,8,4,3,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,54,30,Interaction,Ill,0,12,5,0,5,11,13,7,8,4,3,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,52,30,Interaction,Healthy,0,,4,0,4,7,13,7,8,4,3,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,36,30,Suspicion,Healthy,0,,3,0,3,12,13,7,8,4,3,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,38,30,Interaction,Ill,0,11,5,0,5,11,13,7,8,4,3,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,46,30,Suspicion,Healthy,0,,3,0,3,4,13,7,8,4,3,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,40,30,Suspicion,Ill,0,13,3,0,3,1,13,7,8,4,3,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-147,30,Interaction,Recovered,0,0,4,0,4,5,13,7,8,4,3,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,52,30,Interaction,Healthy,0,,3,0,3,6,13,7,8,4,3,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,39,30,Isolation,Ill,0,7,0,0,0,10,13,7,8,4,3,0,6c6ztdn7
+23,vea8a62v,,103,2,42,30,Interaction,Healthy,0,,4,0,4,4,13,7,8,4,3,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,37,30,Suspicion,Healthy,0,,2,0,2,3,13,7,8,4,3,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-150,30,Interaction,Recovered,0,6,5,0,5,3,14,8,10,4,4,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,37,30,Interaction,Ill,0,14,5,0,5,7,14,8,10,4,4,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,1,14,8,10,4,4,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,44,30,Suspicion,Healthy,0,,2,0,2,4,14,8,10,4,4,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,62,30,Interaction,Ill,0,12,5,0,5,8,14,8,10,4,4,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,49,30,Interaction,Healthy,0,,5,0,5,11,14,8,10,4,4,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,30,30,Interaction,Healthy,0,,5,0,5,6,14,8,10,4,4,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,32,30,Suspicion,Healthy,0,,2,0,2,4,14,8,10,4,4,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,30,30,Suspicion,Ill,0,14,3,0,3,9,14,8,10,4,4,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,37,30,Interaction,Healthy,0,,5,0,5,2,14,8,10,4,4,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,34,30,Interaction,Healthy,0,,5,0,5,5,14,8,10,4,4,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,42,30,Interaction,Recovered,0,3,5,0,5,12,14,8,10,4,4,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,33,30,Interaction,Healthy,0,,5,0,5,10,14,8,10,4,4,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,59,30,Interaction,Ill,0,12,5,0,5,7,14,8,10,4,4,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,57,30,Interaction,Healthy,0,,5,0,5,12,14,8,10,4,4,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,41,30,Interaction,Healthy,0,,5,0,5,5,14,8,10,4,4,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,41,30,Interaction,Ill,0,11,3,0,3,1,14,8,10,4,4,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,51,30,Interaction,Healthy,0,,5,0,5,6,14,8,10,4,4,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,44,30,Interaction,Ill,0,13,4,0,4,9,14,8,10,4,4,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-142,30,Interaction,Recovered,0,0,5,0,5,8,14,8,10,4,4,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,57,30,Interaction,Healthy,0,,5,0,5,10,14,8,10,4,4,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-156,30,Interaction,Recovered,1,7,5,1,-195,11,14,8,10,4,4,0,6c6ztdn7
+23,vea8a62v,,103,1,47,30,Interaction,Healthy,0,,5,0,5,3,14,8,10,4,4,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,42,30,Interaction,Healthy,0,,5,0,5,2,14,8,10,4,4,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-147,30,Interaction,Recovered,0,6,3,0,3,1,15,10,13,5,4,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,41,30,Interaction,Ill,0,14,4,0,4,6,15,10,13,5,4,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,10,15,10,13,5,4,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,47,30,Suspicion,Ill,0,15,3,0,3,9,15,10,13,5,4,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,67,30,Interaction,Ill,0,12,5,0,5,11,15,10,13,5,4,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,52,30,Suspicion,Healthy,0,,3,0,3,8,15,10,13,5,4,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,33,30,Suspicion,Ill,0,15,3,0,3,6,15,10,13,5,4,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,35,30,Suspicion,Healthy,0,,3,0,3,2,15,10,13,5,4,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,30,30,Isolation,Ill,0,14,0,0,0,1,15,10,13,5,4,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,38,30,Suspicion,Healthy,0,,1,0,1,10,15,10,13,5,4,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,37,30,Suspicion,Healthy,0,,3,0,3,12,15,10,13,5,4,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,47,30,Interaction,Recovered,0,3,5,0,5,4,15,10,13,5,4,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,38,30,Interaction,Healthy,0,,5,0,5,11,15,10,13,5,4,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,64,30,Interaction,Ill,0,12,5,0,5,7,15,10,13,5,4,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,60,30,Interaction,Healthy,0,,3,0,3,3,15,10,13,5,4,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,46,30,Interaction,Healthy,0,,5,0,5,5,15,10,13,5,4,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,45,30,Interaction,Ill,0,11,4,1,4,2,15,10,13,5,4,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,55,30,Interaction,Healthy,0,,4,0,4,12,15,10,13,5,4,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,48,30,Interaction,Ill,0,13,4,0,4,9,15,10,13,5,4,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-138,30,Interaction,Recovered,0,0,4,0,4,8,15,10,13,5,4,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,62,30,Interaction,Ill,0,15,5,0,5,7,15,10,13,5,4,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-151,30,Interaction,Recovered,0,7,5,0,5,5,15,10,13,5,4,0,6c6ztdn7
+23,vea8a62v,,103,1,47,30,Isolation,Healthy,0,,0,0,0,3,15,10,13,5,4,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,47,30,Interaction,Healthy,0,,5,0,5,4,15,10,13,5,4,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-143,30,Interaction,Recovered,0,6,4,0,4,10,16,13,15,7,4,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,45,30,Interaction,Ill,0,14,4,0,4,4,16,13,15,7,4,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,1,16,13,15,7,4,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,50,30,Suspicion,Ill,0,15,3,0,3,5,16,13,15,7,4,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,71,30,Interaction,Ill,0,12,4,1,4,5,16,13,15,7,4,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,57,30,Interaction,Healthy,0,,5,0,5,11,16,13,15,7,4,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,36,30,Suspicion,Ill,0,15,3,0,3,6,16,13,15,7,4,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,37,30,Suspicion,Ill,0,16,2,0,2,8,16,13,15,7,4,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,32,30,Suspicion,Ill,0,14,2,0,2,8,16,13,15,7,4,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,41,30,Suspicion,Healthy,0,,3,0,3,9,16,13,15,7,4,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,39,30,Suspicion,Healthy,0,,2,0,2,12,16,13,15,7,4,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,52,30,Interaction,Recovered,0,3,5,0,5,7,16,13,15,7,4,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,42,30,Interaction,Healthy,0,,4,0,4,9,16,13,15,7,4,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,68,30,Interaction,Ill,0,12,4,1,4,6,16,13,15,7,4,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,63,30,Suspicion,Healthy,0,,3,0,3,4,16,13,15,7,4,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,49,30,Suspicion,Healthy,0,,3,0,3,2,16,13,15,7,4,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,49,30,Interaction,Ill,0,11,4,0,4,2,16,13,15,7,4,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,58,30,Suspicion,Healthy,0,,3,0,3,10,16,13,15,7,4,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,49,30,Suspicion,Ill,0,13,1,0,1,1,16,13,15,7,4,0,6c6ztdn7
+20,1pam1cqo,,-73,2,-133,30,Interaction,Recovered,0,0,5,0,5,11,16,13,15,7,4,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,66,30,Interaction,Ill,0,15,4,0,4,3,16,13,15,7,4,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-146,30,Interaction,Recovered,0,7,5,0,5,7,16,13,15,7,4,0,6c6ztdn7
+23,vea8a62v,,103,2,49,30,Suspicion,Healthy,0,,2,0,2,12,16,13,15,7,4,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,50,30,Suspicion,Ill,0,16,3,0,3,3,16,13,15,7,4,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-142,30,Suspicion,Recovered,0,6,1,0,1,1,17,15,16,8,4,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,48,30,Suspicion,Ill,0,14,3,0,3,7,17,15,16,8,4,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,9,17,15,16,8,4,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,52,30,Suspicion,Ill,0,15,2,0,2,3,17,15,16,8,4,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,75,30,Interaction,Ill,0,12,4,0,4,2,17,15,16,8,4,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,61,30,Interaction,Healthy,0,,4,0,4,7,17,15,16,8,4,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,39,30,Suspicion,Ill,0,15,3,0,3,10,17,15,16,8,4,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,38,30,Suspicion,Ill,0,16,1,0,1,8,17,15,16,8,4,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,32,30,Isolation,Ill,0,14,0,0,0,6,17,15,16,8,4,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,44,30,Suspicion,Healthy,0,,3,0,3,4,17,15,16,8,4,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,39,30,Isolation,Healthy,0,,0,0,0,1,17,15,16,8,4,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,56,30,Interaction,Recovered,0,3,4,0,4,4,17,15,16,8,4,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,44,30,Suspicion,Healthy,0,,2,0,2,5,17,15,16,8,4,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,68,30,Isolation,Ill,0,12,0,0,0,8,17,15,16,8,4,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,65,30,Suspicion,Healthy,0,,2,0,2,5,17,15,16,8,4,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,52,30,Suspicion,Healthy,0,,3,0,3,11,17,15,16,8,4,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,54,30,Interaction,Ill,0,11,5,0,5,12,17,15,16,8,4,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,62,30,Interaction,Ill,0,17,4,0,4,10,17,15,16,8,4,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,52,30,Suspicion,Ill,0,13,3,1,3,2,17,15,16,8,4,0,6c6ztdn7
+20,1pam1cqo,,-73,2,-128,30,Interaction,Recovered,0,0,5,0,5,12,17,15,16,8,4,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,69,30,Interaction,Ill,0,15,3,0,3,6,17,15,16,8,4,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-143,30,Interaction,Recovered,0,7,3,0,3,9,17,15,16,8,4,0,6c6ztdn7
+23,vea8a62v,,103,2,53,30,Interaction,Healthy,0,,4,0,4,11,17,15,16,8,4,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,52,30,Suspicion,Ill,0,16,2,0,2,3,17,15,16,8,4,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-138,30,Interaction,Recovered,0,6,4,0,4,12,18,16,16,10,5,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,51,30,Interaction,Ill,0,14,3,1,3,11,18,16,16,10,5,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,11,18,16,16,10,5,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,54,30,Suspicion,Ill,0,15,2,0,2,3,18,16,16,10,5,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,79,30,Interaction,Ill,0,12,4,0,4,4,18,16,16,10,5,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,62,30,Suspicion,Healthy,0,,1,0,1,8,18,16,16,10,5,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,42,30,Suspicion,Ill,0,15,3,0,3,10,18,16,16,10,5,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,38,30,Isolation,Ill,0,16,0,0,0,9,18,16,16,10,5,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,34,30,Suspicion,Ill,0,14,2,1,2,3,18,16,16,10,5,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,46,30,Suspicion,Healthy,0,,2,0,2,2,18,16,16,10,5,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,39,30,Isolation,Healthy,0,,0,0,0,8,18,16,16,10,5,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,60,30,Interaction,Recovered,0,3,4,0,4,6,18,16,16,10,5,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,45,30,Suspicion,Healthy,0,,1,0,1,5,18,16,16,10,5,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Suspicion,Ill,0,12,3,0,3,4,18,16,16,10,5,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,67,30,Suspicion,Healthy,0,,2,0,2,2,18,16,16,10,5,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,52,30,Isolation,Healthy,0,,0,0,0,5,18,16,16,10,5,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,55,30,Suspicion,Recovered,0,11,1,1,1,9,18,16,16,10,5,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,64,30,Suspicion,Ill,0,17,2,0,2,1,18,16,16,10,5,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,57,30,Interaction,Ill,0,13,5,0,5,7,18,16,16,10,5,0,6c6ztdn7
+20,1pam1cqo,,-73,1,-124,30,Interaction,Recovered,0,0,4,0,4,10,18,16,16,10,5,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,71,30,Suspicion,Ill,0,15,2,0,2,1,18,16,16,10,5,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-138,30,Interaction,Recovered,0,7,5,0,5,7,18,16,16,10,5,0,6c6ztdn7
+23,vea8a62v,,103,1,56,30,Suspicion,Healthy,0,,3,0,3,12,18,16,16,10,5,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,55,30,Suspicion,Ill,0,16,3,0,3,6,18,16,16,10,5,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-136,30,Suspicion,Recovered,0,6,2,0,2,7,19,16,17,13,6,1,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,54,30,Interaction,Ill,0,14,3,0,3,12,19,16,17,13,6,1,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,6,19,16,17,13,6,1,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,54,30,Isolation,Ill,0,15,0,1,0,8,19,16,17,13,6,1,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,84,30,Interaction,Recovered,0,12,5,1,5,11,19,16,17,13,6,1,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,62,30,Isolation,Healthy,0,,0,0,0,9,19,16,17,13,6,1,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,47,30,Interaction,Ill,0,15,5,1,5,1,19,16,17,13,6,1,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,38,30,Isolation,Ill,0,16,0,0,0,9,19,16,17,13,6,1,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,39,30,Interaction,Ill,0,14,5,0,5,11,19,16,17,13,6,1,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,46,30,Isolation,Healthy,0,,0,0,0,6,19,16,17,13,6,1,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,39,30,Isolation,Healthy,0,,0,0,0,12,19,16,17,13,6,1,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,65,30,Interaction,Recovered,0,3,5,0,5,1,19,16,17,13,6,1,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,48,30,Suspicion,Healthy,0,,3,0,3,5,19,16,17,13,6,1,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,1,0,2,19,16,17,13,6,1,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,69,30,Suspicion,Healthy,0,,2,0,2,7,19,16,17,13,6,1,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,52,30,Isolation,Healthy,0,,0,0,0,8,19,16,17,13,6,1,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,60,30,Interaction,Recovered,0,11,5,0,5,4,19,16,17,13,6,1,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,67,30,Suspicion,Ill,0,17,3,0,3,3,19,16,17,13,6,1,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,61,30,Interaction,Ill,0,13,4,0,4,5,19,16,17,13,6,1,6c6ztdn7
+20,1pam1cqo,,-73,2,-121,30,Interaction,Recovered,0,0,3,0,3,2,19,16,17,13,6,1,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,75,30,Interaction,Ill,0,15,4,1,4,3,19,16,17,13,6,1,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-133,30,Interaction,Recovered,0,7,5,0,5,4,19,16,17,13,6,1,6c6ztdn7
+23,vea8a62v,,103,2,60,30,Interaction,Ill,0,19,4,0,4,10,19,16,17,13,6,1,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,58,30,Suspicion,Ill,0,16,3,0,3,10,19,16,17,13,6,1,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-131,30,Interaction,Recovered,0,6,5,0,5,12,20,17,18,15,7,1,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,57,30,Interaction,Ill,0,14,3,0,3,1,20,17,18,15,7,1,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,4,20,17,18,15,7,1,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,54,30,Isolation,Ill,0,15,0,0,0,3,20,17,18,15,7,1,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,89,30,Interaction,Recovered,0,12,5,0,5,12,20,17,18,15,7,1,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,65,30,Suspicion,Ill,0,20,3,0,3,7,20,17,18,15,7,1,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,51,30,Interaction,Ill,0,15,4,0,4,8,20,17,18,15,7,1,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,38,30,Isolation,Ill,0,16,0,1,0,6,20,17,18,15,7,1,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,42,30,Interaction,Ill,0,14,3,0,3,3,20,17,18,15,7,1,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,46,30,Isolation,Healthy,0,,0,0,0,5,20,17,18,15,7,1,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,39,30,Isolation,Healthy,0,,0,0,0,1,20,17,18,15,7,1,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,69,30,Interaction,Recovered,0,3,4,0,4,9,20,17,18,15,7,1,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,51,30,Suspicion,Healthy,0,,3,0,3,11,20,17,18,15,7,1,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,0,0,6,20,17,18,15,7,1,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,72,30,Suspicion,Healthy,0,,3,0,3,9,20,17,18,15,7,1,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,52,30,Isolation,Healthy,0,,0,0,0,5,20,17,18,15,7,1,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,65,30,Interaction,Recovered,0,11,5,0,5,10,20,17,18,15,7,1,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,70,30,Suspicion,Ill,0,17,3,0,3,8,20,17,18,15,7,1,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,62,30,Suspicion,Recovered,0,13,1,1,1,2,20,17,18,15,7,1,6c6ztdn7
+20,1pam1cqo,,-73,1,-117,30,Interaction,Recovered,0,0,4,0,4,11,20,17,18,15,7,1,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,80,30,Interaction,Ill,0,15,5,0,5,10,20,17,18,15,7,1,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-130,30,Interaction,Recovered,0,7,3,0,3,4,20,17,18,15,7,1,6c6ztdn7
+23,vea8a62v,,103,2,60,30,Isolation,Ill,0,19,0,0,0,2,20,17,18,15,7,1,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,62,30,Interaction,Ill,0,16,4,1,4,7,20,17,18,15,7,1,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,-129,30,Suspicion,Recovered,0,6,2,0,2,9,21,18,18,16,9,1,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,57,30,Isolation,Recovered,0,14,0,1,0,3,21,18,18,16,9,1,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,6,21,18,18,16,9,1,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,54,30,Isolation,Ill,0,15,0,0,0,4,21,18,18,16,9,1,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,94,30,Interaction,Recovered,0,12,5,0,5,1,21,18,18,16,9,1,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,68,30,Suspicion,Ill,0,20,3,0,3,2,21,18,18,16,9,1,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,54,30,Interaction,Ill,0,15,3,0,3,4,21,18,18,16,9,1,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,38,30,Isolation,Ill,0,16,0,0,0,10,21,18,18,16,9,1,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,45,30,Interaction,Recovered,0,14,3,1,3,8,21,18,18,16,9,1,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,46,30,Isolation,Healthy,0,,0,0,0,3,21,18,18,16,9,1,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,39,30,Isolation,Healthy,0,,0,0,0,7,21,18,18,16,9,1,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,72,30,Interaction,Recovered,0,3,3,0,3,7,21,18,18,16,9,1,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,52,30,Suspicion,Healthy,0,,1,0,1,6,21,18,18,16,9,1,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,0,0,10,21,18,18,16,9,1,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,75,30,Suspicion,Healthy,0,,3,0,3,12,21,18,18,16,9,1,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,52,30,Isolation,Healthy,0,,0,0,0,8,21,18,18,16,9,1,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,69,30,Interaction,Recovered,0,11,4,0,4,11,21,18,18,16,9,1,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,75,30,Interaction,Ill,0,17,5,1,5,1,21,18,18,16,9,1,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,64,30,Suspicion,Recovered,0,13,2,0,2,9,21,18,18,16,9,1,6c6ztdn7
+20,1pam1cqo,,-73,1,-112,30,Interaction,Recovered,0,0,5,0,5,5,21,18,18,16,9,1,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,85,30,Interaction,Ill,0,15,5,0,5,5,21,18,18,16,9,1,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-126,30,Interaction,Recovered,0,7,4,0,4,12,21,18,18,16,9,1,6c6ztdn7
+23,vea8a62v,,103,2,63,30,Suspicion,Ill,0,19,3,0,3,11,21,18,18,16,9,1,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,66,30,Interaction,Ill,0,16,4,0,4,2,21,18,18,16,9,1,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,-128,30,Suspicion,Recovered,0,6,1,0,1,1,22,18,18,16,12,1,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,62,30,Interaction,Recovered,0,14,5,0,5,5,22,18,18,16,12,1,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,1,22,18,18,16,12,1,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,59,30,Interaction,Recovered,0,15,5,1,5,10,22,18,18,16,12,1,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,98,30,Interaction,Recovered,0,12,4,0,4,9,22,18,18,16,12,1,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,71,30,Suspicion,Ill,0,20,3,0,3,9,22,18,18,16,12,1,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,59,30,Interaction,Recovered,0,15,5,1,5,5,22,18,18,16,12,1,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,38,30,Isolation,Ill,0,16,0,0,0,3,22,18,18,16,12,1,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,50,30,Interaction,Recovered,0,14,5,0,5,7,22,18,18,16,12,1,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,51,30,Interaction,Healthy,0,,5,0,5,4,22,18,18,16,12,1,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,41,30,Suspicion,Healthy,0,,2,0,2,12,22,18,18,16,12,1,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,77,30,Interaction,Recovered,0,3,5,0,5,2,22,18,18,16,12,1,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,54,30,Suspicion,Healthy,0,,2,0,2,12,22,18,18,16,12,1,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,0,0,11,22,18,18,16,12,1,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,77,30,Suspicion,Healthy,0,,2,0,2,6,22,18,18,16,12,1,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,53,30,Suspicion,Healthy,0,,1,0,1,3,22,18,18,16,12,1,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,74,30,Interaction,Recovered,0,11,5,0,5,2,22,18,18,16,12,1,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,80,30,Interaction,Ill,0,17,5,0,5,4,22,18,18,16,12,1,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,65,30,Suspicion,Recovered,0,13,1,0,1,11,22,18,18,16,12,1,6c6ztdn7
+20,1pam1cqo,,-73,1,-107,30,Interaction,Recovered,0,0,5,0,5,8,22,18,18,16,12,1,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,90,30,Interaction,Recovered,0,15,5,1,5,8,22,18,18,16,12,1,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-121,30,Interaction,Recovered,0,7,5,0,5,7,22,18,18,16,12,1,6c6ztdn7
+23,vea8a62v,,103,1,65,30,Suspicion,Ill,0,19,2,0,2,6,22,18,18,16,12,1,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,71,30,Interaction,Ill,0,16,5,0,5,10,22,18,18,16,12,1,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-126,30,Suspicion,Recovered,0,6,2,0,2,5,23,18,19,17,14,1,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,67,30,Interaction,Recovered,0,14,5,0,5,4,23,18,19,17,14,1,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,7,23,18,19,17,14,1,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,64,30,Interaction,Recovered,0,15,5,0,5,4,23,18,19,17,14,1,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,101,30,Interaction,Recovered,0,12,3,0,3,7,23,18,19,17,14,1,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,73,30,Suspicion,Ill,0,20,2,0,2,5,23,18,19,17,14,1,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,64,30,Interaction,Recovered,0,15,5,0,5,6,23,18,19,17,14,1,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,-159,30,Suspicion,Recovered,1,16,3,1,-197,8,23,18,19,17,14,1,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,55,30,Interaction,Recovered,0,14,5,0,5,10,23,18,19,17,14,1,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,56,30,Interaction,Ill,0,23,5,0,5,2,23,18,19,17,14,1,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,43,30,Suspicion,Healthy,0,,2,0,2,3,23,18,19,17,14,1,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,81,30,Interaction,Recovered,0,3,4,0,4,8,23,18,19,17,14,1,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,57,30,Suspicion,Healthy,0,,3,0,3,11,23,18,19,17,14,1,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,71,30,Isolation,Dead,0,12,0,0,0,12,23,18,19,17,14,1,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,79,30,Suspicion,Healthy,0,,2,0,2,3,23,18,19,17,14,1,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,58,30,Interaction,Healthy,0,,5,0,5,10,23,18,19,17,14,1,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,79,30,Interaction,Recovered,0,11,5,0,5,9,23,18,19,17,14,1,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,85,30,Interaction,Ill,0,17,5,0,5,2,23,18,19,17,14,1,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,70,30,Interaction,Recovered,0,13,5,0,5,1,23,18,19,17,14,1,6c6ztdn7
+20,1pam1cqo,,-73,2,-102,30,Interaction,Recovered,0,0,5,0,5,6,23,18,19,17,14,1,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,93,30,Interaction,Recovered,0,15,3,0,3,12,23,18,19,17,14,1,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-117,30,Interaction,Recovered,0,7,4,0,4,11,23,18,19,17,14,1,6c6ztdn7
+23,vea8a62v,,103,2,70,30,Interaction,Ill,0,19,5,1,5,9,23,18,19,17,14,1,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,76,30,Interaction,Recovered,0,16,5,1,5,1,23,18,19,17,14,1,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,-123,30,Suspicion,Recovered,0,6,3,0,3,6,24,19,19,18,14,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,72,30,Interaction,Recovered,0,14,5,0,5,5,24,19,19,18,14,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,8,24,19,19,18,14,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,69,30,Interaction,Recovered,0,15,5,0,5,10,24,19,19,18,14,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,105,30,Interaction,Recovered,0,12,4,0,4,2,24,19,19,18,14,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,75,30,Suspicion,Ill,0,20,2,1,2,12,24,19,19,18,14,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,69,30,Interaction,Recovered,0,15,5,0,5,9,24,19,19,18,14,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,-154,30,Interaction,Recovered,0,16,5,0,5,9,24,19,19,18,14,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,60,30,Interaction,Recovered,0,14,5,0,5,3,24,19,19,18,14,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,61,30,Interaction,Ill,0,23,5,0,5,5,24,19,19,18,14,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,46,30,Suspicion,Healthy,0,,3,0,3,2,24,19,19,18,14,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,86,30,Interaction,Recovered,0,3,5,0,5,7,24,19,19,18,14,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,62,30,Interaction,Healthy,0,,5,0,5,10,24,19,19,18,14,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,0,0,11,24,19,19,18,14,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,81,30,Suspicion,Healthy,0,,2,0,2,12,24,19,19,18,14,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,63,30,Interaction,Healthy,0,,5,0,5,3,24,19,19,18,14,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,84,30,Interaction,Recovered,0,11,5,0,5,1,24,19,19,18,14,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,85,30,Isolation,Dead,0,17,0,1,0,11,24,19,19,18,14,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,74,30,Interaction,Recovered,0,13,4,0,4,6,24,19,19,18,14,2,6c6ztdn7
+20,1pam1cqo,,-73,2,-99,30,Interaction,Recovered,0,0,3,0,3,8,24,19,19,18,14,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,98,30,Interaction,Recovered,0,15,5,0,5,1,24,19,19,18,14,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-112,30,Interaction,Recovered,0,7,5,0,5,7,24,19,19,18,14,2,6c6ztdn7
+23,vea8a62v,,103,1,75,30,Interaction,Ill,0,19,5,0,5,4,24,19,19,18,14,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,81,30,Interaction,Recovered,0,16,5,0,5,4,24,19,19,18,14,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,-120,30,Suspicion,Recovered,0,6,3,0,3,1,25,19,20,18,14,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,77,30,Interaction,Recovered,0,14,5,0,5,6,25,19,20,18,14,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,2,25,19,20,18,14,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,73,30,Interaction,Recovered,0,15,4,0,4,1,25,19,20,18,14,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,108,30,Interaction,Recovered,0,12,3,0,3,10,25,19,20,18,14,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,80,30,Interaction,Ill,0,20,5,0,5,6,25,19,20,18,14,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,74,30,Interaction,Recovered,0,15,5,0,5,8,25,19,20,18,14,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,-150,30,Interaction,Recovered,0,16,4,0,4,4,25,19,20,18,14,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,64,30,Interaction,Recovered,0,14,4,0,4,5,25,19,20,18,14,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,66,30,Interaction,Ill,0,23,5,0,5,9,25,19,20,18,14,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,49,30,Suspicion,Healthy,0,,3,0,3,5,25,19,20,18,14,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,91,30,Interaction,Recovered,0,3,5,0,5,7,25,19,20,18,14,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,67,30,Interaction,Healthy,0,,5,0,5,12,25,19,20,18,14,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,71,30,Isolation,Dead,0,12,0,0,0,11,25,19,20,18,14,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,84,30,Suspicion,Healthy,0,,3,0,3,4,25,19,20,18,14,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,68,30,Interaction,Ill,0,25,5,0,5,3,25,19,20,18,14,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,89,30,Interaction,Recovered,0,11,5,0,5,12,25,19,20,18,14,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,85,30,Isolation,Dead,0,17,0,0,0,10,25,19,20,18,14,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,75,30,Suspicion,Recovered,0,13,1,0,1,2,25,19,20,18,14,2,6c6ztdn7
+20,1pam1cqo,,-73,1,-94,30,Interaction,Recovered,0,0,5,0,5,8,25,19,20,18,14,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,101,30,Interaction,Recovered,0,15,3,0,3,11,25,19,20,18,14,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-107,30,Interaction,Recovered,0,7,5,0,5,7,25,19,20,18,14,2,6c6ztdn7
+23,vea8a62v,,103,2,80,30,Interaction,Ill,0,19,5,0,5,3,25,19,20,18,14,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,86,30,Interaction,Recovered,0,16,5,0,5,9,25,19,20,18,14,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-115,30,Interaction,Recovered,0,6,5,0,5,9,26,20,20,18,15,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,81,30,Interaction,Recovered,0,14,4,0,4,3,26,20,20,18,15,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,7,26,20,20,18,15,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,78,30,Interaction,Recovered,0,15,5,0,5,2,26,20,20,18,15,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,113,30,Interaction,Recovered,0,12,5,0,5,1,26,20,20,18,15,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,85,30,Interaction,Ill,0,20,5,0,5,6,26,20,20,18,15,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,77,30,Interaction,Recovered,0,15,3,0,3,12,26,20,20,18,15,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,-145,30,Interaction,Recovered,0,16,5,0,5,6,26,20,20,18,15,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,69,30,Interaction,Recovered,0,14,5,0,5,4,26,20,20,18,15,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,69,30,Interaction,Ill,0,23,3,0,3,5,26,20,20,18,15,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,52,30,Suspicion,Healthy,0,,3,0,3,3,26,20,20,18,15,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,96,30,Interaction,Recovered,0,3,5,0,5,1,26,20,20,18,15,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,70,30,Interaction,Healthy,0,,3,0,3,7,26,20,20,18,15,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,0,0,12,26,20,20,18,15,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,87,30,Suspicion,Healthy,0,,3,0,3,8,26,20,20,18,15,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,73,30,Interaction,Ill,0,25,5,0,5,9,26,20,20,18,15,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,94,30,Interaction,Recovered,0,11,5,0,5,11,26,20,20,18,15,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,85,30,Isolation,Dead,0,17,0,0,0,5,26,20,20,18,15,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,80,30,Interaction,Recovered,0,13,5,0,5,4,26,20,20,18,15,2,6c6ztdn7
+20,1pam1cqo,,-73,1,-89,30,Interaction,Recovered,0,0,5,0,5,11,26,20,20,18,15,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,106,30,Interaction,Recovered,0,15,5,0,5,10,26,20,20,18,15,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-103,30,Interaction,Recovered,0,7,4,0,4,8,26,20,20,18,15,2,6c6ztdn7
+23,vea8a62v,,103,1,85,30,Interaction,Recovered,0,19,5,1,5,10,26,20,20,18,15,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,91,30,Interaction,Recovered,0,16,5,0,5,2,26,20,20,18,15,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,-110,30,Interaction,Recovered,0,6,5,0,5,4,27,20,20,19,16,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,86,30,Interaction,Recovered,0,14,5,0,5,2,27,20,20,19,16,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,7,27,20,20,19,16,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,83,30,Interaction,Recovered,0,15,5,0,5,10,27,20,20,19,16,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,118,30,Interaction,Recovered,0,12,5,0,5,9,27,20,20,19,16,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,90,30,Interaction,Recovered,0,20,5,1,5,10,27,20,20,19,16,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,82,30,Interaction,Recovered,0,15,5,0,5,3,27,20,20,19,16,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,-140,30,Interaction,Recovered,0,16,5,0,5,1,27,20,20,19,16,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,72,30,Interaction,Recovered,0,14,3,0,3,6,27,20,20,19,16,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,74,30,Interaction,Ill,0,23,5,1,5,12,27,20,20,19,16,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,53,30,Suspicion,Healthy,0,,1,0,1,5,27,20,20,19,16,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,101,30,Interaction,Recovered,0,3,5,0,5,8,27,20,20,19,16,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,73,30,Interaction,Healthy,0,,3,0,3,7,27,20,20,19,16,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,71,30,Isolation,Dead,0,12,0,0,0,5,27,20,20,19,16,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,92,30,Interaction,Healthy,0,,5,0,5,1,27,20,20,19,16,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,78,30,Interaction,Ill,0,25,5,0,5,3,27,20,20,19,16,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,99,30,Interaction,Recovered,0,11,5,0,5,8,27,20,20,19,16,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,85,30,Isolation,Dead,0,17,0,0,0,6,27,20,20,19,16,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,85,30,Interaction,Recovered,0,13,5,0,5,11,27,20,20,19,16,2,6c6ztdn7
+20,1pam1cqo,,-73,2,-84,30,Interaction,Recovered,0,0,5,0,5,4,27,20,20,19,16,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,111,30,Interaction,Recovered,0,15,5,0,5,11,27,20,20,19,16,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-98,30,Interaction,Recovered,0,7,5,0,5,9,27,20,20,19,16,2,6c6ztdn7
+23,vea8a62v,,103,2,90,30,Interaction,Recovered,0,19,5,0,5,12,27,20,20,19,16,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,96,30,Interaction,Recovered,0,16,5,0,5,2,27,20,20,19,16,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,-107,30,Suspicion,Recovered,0,6,3,0,3,6,28,20,20,19,16,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,91,30,Interaction,Recovered,0,14,5,0,5,2,28,20,20,19,16,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,30,Isolation,Healthy,0,,0,0,0,12,28,20,20,19,16,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,88,30,Interaction,Recovered,0,15,5,0,5,1,28,20,20,19,16,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,123,30,Interaction,Recovered,0,12,5,0,5,5,28,20,20,19,16,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,95,30,Interaction,Recovered,0,20,5,0,5,11,28,20,20,19,16,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,87,30,Interaction,Recovered,0,15,5,0,5,5,28,20,20,19,16,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,-135,30,Interaction,Recovered,0,16,5,0,5,3,28,20,20,19,16,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,77,30,Interaction,Recovered,0,14,5,0,5,4,28,20,20,19,16,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,78,30,Interaction,Ill,0,23,4,0,4,6,28,20,20,19,16,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,56,30,Suspicion,Healthy,0,,3,0,3,8,28,20,20,19,16,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,106,30,Interaction,Recovered,0,3,5,0,5,1,28,20,20,19,16,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,76,30,Interaction,Healthy,0,,3,0,3,10,28,20,20,19,16,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,0,0,10,28,20,20,19,16,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,97,30,Interaction,Healthy,0,,5,0,5,3,28,20,20,19,16,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,83,30,Interaction,Ill,0,25,5,0,5,11,28,20,20,19,16,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,104,30,Interaction,Recovered,0,11,5,0,5,2,28,20,20,19,16,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,85,30,Isolation,Dead,0,17,0,0,0,7,28,20,20,19,16,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,88,30,Interaction,Recovered,0,13,3,0,3,12,28,20,20,19,16,2,6c6ztdn7
+20,1pam1cqo,,-73,1,-81,30,Interaction,Recovered,0,0,3,0,3,7,28,20,20,19,16,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,116,30,Interaction,Recovered,0,15,5,0,5,9,28,20,20,19,16,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-93,30,Interaction,Recovered,0,7,5,0,5,4,28,20,20,19,16,2,6c6ztdn7
+23,vea8a62v,,103,2,94,30,Interaction,Recovered,0,19,4,0,4,8,28,20,20,19,16,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,101,30,Interaction,Recovered,0,16,5,0,5,9,28,20,20,19,16,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-106,30,Suspicion,Recovered,0,6,1,0,1,12,29,20,20,20,16,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,96,30,Interaction,Recovered,0,14,5,0,5,2,29,20,20,20,16,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,30,Isolation,Healthy,0,,0,0,0,6,29,20,20,20,16,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,93,30,Interaction,Recovered,0,15,5,0,5,5,29,20,20,20,16,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,128,30,Interaction,Recovered,0,12,5,0,5,7,29,20,20,20,16,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,100,30,Interaction,Recovered,0,20,5,0,5,10,29,20,20,20,16,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,92,30,Interaction,Recovered,0,15,5,0,5,9,29,20,20,20,16,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,-130,30,Interaction,Recovered,0,16,5,0,5,5,29,20,20,20,16,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,82,30,Interaction,Recovered,0,14,5,0,5,10,29,20,20,20,16,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,83,30,Interaction,Ill,0,23,5,0,5,7,29,20,20,20,16,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,56,30,Isolation,Healthy,0,,0,0,0,8,29,20,20,20,16,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,111,30,Interaction,Recovered,0,3,5,0,5,2,29,20,20,20,16,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,81,30,Interaction,Healthy,0,,5,0,5,1,29,20,20,20,16,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,71,30,Isolation,Dead,0,12,0,0,0,12,29,20,20,20,16,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,100,30,Interaction,Healthy,0,,3,0,3,6,29,20,20,20,16,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,86,30,Suspicion,Ill,0,25,3,1,3,11,29,20,20,20,16,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,107,30,Interaction,Recovered,0,11,3,0,3,8,29,20,20,20,16,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,85,30,Isolation,Dead,0,17,0,0,0,4,29,20,20,20,16,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,91,30,Interaction,Recovered,0,13,3,0,3,4,29,20,20,20,16,2,6c6ztdn7
+20,1pam1cqo,,-73,2,-76,30,Interaction,Recovered,0,0,5,0,5,3,29,20,20,20,16,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,120,30,Interaction,Recovered,0,15,4,0,4,11,29,20,20,20,16,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-88,30,Interaction,Recovered,0,7,5,0,5,1,29,20,20,20,16,2,6c6ztdn7
+23,vea8a62v,,103,1,99,30,Interaction,Recovered,0,19,5,0,5,9,29,20,20,20,16,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,106,30,Interaction,Recovered,0,16,5,0,5,3,29,20,20,20,16,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-103,30,Suspicion,Recovered,0,6,3,0,3,1,30,20,20,20,18,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,101,30,Interaction,Recovered,0,14,5,0,5,6,30,20,20,20,18,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,5,30,Interaction,Healthy,0,,5,0,5,4,30,20,20,20,18,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,98,30,Interaction,Recovered,0,15,5,0,5,10,30,20,20,20,18,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,133,30,Interaction,Recovered,0,12,5,0,5,5,30,20,20,20,18,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,105,30,Interaction,Recovered,0,20,5,0,5,2,30,20,20,20,18,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,97,30,Interaction,Recovered,0,15,5,0,5,2,30,20,20,20,18,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,-125,30,Interaction,Recovered,0,16,5,0,5,8,30,20,20,20,18,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,87,30,Interaction,Recovered,0,14,5,0,5,4,30,20,20,20,18,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,88,30,Interaction,Recovered,0,23,5,1,5,11,30,20,20,20,18,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,56,30,Isolation,Healthy,0,,0,0,0,9,30,20,20,20,18,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,116,30,Interaction,Recovered,0,3,5,0,5,6,30,20,20,20,18,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,86,30,Interaction,Healthy,0,,5,0,5,8,30,20,20,20,18,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,-429,30,Isolation,Dead,0,12,0,0,-500,3,30,20,20,20,18,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,105,30,Interaction,Healthy,0,,5,0,5,11,30,20,20,20,18,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,89,30,Interaction,Recovered,0,25,3,1,3,9,30,20,20,20,18,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,112,30,Interaction,Recovered,0,11,5,0,5,5,30,20,20,20,18,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,-415,30,Isolation,Dead,0,17,0,0,-500,7,30,20,20,20,18,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,96,30,Interaction,Recovered,0,13,5,0,5,12,30,20,20,20,18,2,6c6ztdn7
+20,1pam1cqo,,-73,1,-73,30,Interaction,Recovered,0,0,3,0,3,3,30,20,20,20,18,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,125,30,Interaction,Recovered,0,15,5,0,5,10,30,20,20,20,18,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,-85,30,Interaction,Recovered,0,7,3,0,3,7,30,20,20,20,18,2,6c6ztdn7
+23,vea8a62v,,103,1,103,30,Interaction,Recovered,0,19,4,0,4,1,30,20,20,20,18,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,111,30,Interaction,Recovered,0,16,5,0,5,12,30,20,20,20,18,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,-103,30,,Recovered,0,6,0,0,0,6,31,20,20,20,18,2,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,101,30,,Recovered,0,14,0,0,0,3,31,20,20,20,18,2,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,5,30,,Healthy,0,,0,0,0,1,31,20,20,20,18,2,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,98,30,,Recovered,0,15,0,0,0,10,31,20,20,20,18,2,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,133,30,,Recovered,0,12,0,0,0,7,31,20,20,20,18,2,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,105,30,,Recovered,0,20,0,0,0,9,31,20,20,20,18,2,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,97,30,,Recovered,0,15,0,0,0,4,31,20,20,20,18,2,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,-125,30,,Recovered,0,16,0,0,0,12,31,20,20,20,18,2,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,87,30,,Recovered,0,14,0,0,0,12,31,20,20,20,18,2,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,88,30,,Recovered,0,23,0,0,0,11,31,20,20,20,18,2,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,56,30,,Healthy,0,,0,0,0,3,31,20,20,20,18,2,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,116,30,,Recovered,0,3,0,0,0,9,31,20,20,20,18,2,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,86,30,,Healthy,0,,0,0,0,8,31,20,20,20,18,2,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,-429,30,,Dead,0,12,0,0,0,10,31,20,20,20,18,2,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,105,30,,Healthy,0,,0,0,0,4,31,20,20,20,18,2,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,89,30,,Recovered,0,25,0,0,0,2,31,20,20,20,18,2,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,112,30,,Recovered,0,11,0,0,0,8,31,20,20,20,18,2,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,-415,30,,Dead,0,17,0,0,0,7,31,20,20,20,18,2,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,96,30,,Recovered,0,13,0,0,0,2,31,20,20,20,18,2,6c6ztdn7
+20,1pam1cqo,,-73,2,-73,30,Interaction,Recovered,0,0,0,0,0,5,31,20,20,20,18,2,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,125,30,,Recovered,0,15,0,0,0,5,31,20,20,20,18,2,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,-85,30,,Recovered,0,7,0,0,0,6,31,20,20,20,18,2,6c6ztdn7
+23,vea8a62v,,103,1,103,30,Interaction,Recovered,0,19,0,0,0,1,31,20,20,20,18,2,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,111,30,,Recovered,0,16,0,0,0,11,31,20,20,20,18,2,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,0,40,,Healthy,0,,0,0,0,3,32,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,0,40,,Healthy,0,,0,0,0,6,32,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,40,,Healthy,0,,0,0,0,10,32,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,0,40,,Healthy,0,,0,0,0,12,32,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,0,40,,Healthy,0,,0,0,0,5,32,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,0,40,,Healthy,0,,0,0,0,1,32,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,0,40,,Healthy,0,,0,0,0,8,32,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,0,40,,Healthy,0,,0,0,0,10,32,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,0,40,,Healthy,0,,0,0,0,2,32,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,0,40,,Healthy,0,,0,0,0,1,32,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,0,40,,Healthy,0,,0,0,0,8,32,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,0,40,,Healthy,0,,0,0,0,7,32,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,0,40,,Healthy,0,,0,0,0,3,32,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,0,40,,Healthy,0,,0,0,0,11,32,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,0,40,,Healthy,0,,0,0,0,4,32,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,0,40,,Healthy,0,,0,0,0,11,32,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,0,40,,Healthy,0,,0,0,0,4,32,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,0,40,,Healthy,0,,0,0,0,9,32,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,0,40,,Healthy,0,,0,0,0,7,32,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,0,40,,Healthy,0,,0,0,0,5,32,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,0,40,,Healthy,0,,0,0,0,12,32,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,0,40,,Healthy,0,,0,0,0,2,32,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,1,0,40,,Healthy,0,,0,0,0,6,32,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,0,40,,Healthy,0,,0,0,0,9,32,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,0,40,,Healthy,0,,0,0,0,7,33,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,0,40,,Healthy,0,,0,0,0,10,33,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,40,,Healthy,0,,0,0,0,11,33,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,0,40,,Healthy,0,,0,0,0,12,33,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,0,40,,Healthy,0,,0,0,0,6,33,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,0,40,,Healthy,0,,0,0,0,5,33,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,0,40,,Healthy,0,,0,0,0,1,33,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,0,40,,Healthy,0,,0,0,0,3,33,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,0,40,,Healthy,0,,0,0,0,9,33,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,0,40,,Healthy,0,,0,0,0,4,33,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,0,40,,Healthy,0,,0,0,0,9,33,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,0,40,,Healthy,0,,0,0,0,7,33,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,0,40,,Healthy,0,,0,0,0,10,33,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,0,40,,Healthy,0,,0,0,0,5,33,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,0,40,,Healthy,0,,0,0,0,4,33,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,0,40,,Healthy,0,,0,0,0,12,33,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,0,40,,Healthy,0,,0,0,0,8,33,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,0,40,,Healthy,0,,0,0,0,2,33,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,0,40,,Healthy,0,,0,0,0,8,33,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,2,0,40,,Healthy,0,,0,0,0,3,33,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,0,40,,Healthy,0,,0,0,0,6,33,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,0,40,,Healthy,0,,0,0,0,2,33,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,1,0,40,,Healthy,0,,0,0,0,11,33,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,0,40,,Healthy,0,,0,0,0,1,33,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,0,40,,Healthy,0,,0,0,0,11,34,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,0,40,,Healthy,0,,0,0,0,9,34,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,40,,Healthy,0,,0,0,0,3,34,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,0,40,,Healthy,0,,0,0,0,1,34,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,0,40,,Healthy,0,,0,0,0,10,34,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,0,40,,Healthy,0,,0,0,0,4,34,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,0,40,,Healthy,0,,0,0,0,11,34,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,0,40,,Healthy,0,,0,0,0,6,34,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,0,40,,Healthy,0,,0,0,0,2,34,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,0,40,,Healthy,0,,0,0,0,3,34,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,0,40,,Healthy,0,,0,0,0,5,34,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,0,40,,Healthy,0,,0,0,0,9,34,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,0,40,,Healthy,0,,0,0,0,7,34,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,0,40,,Healthy,0,,0,0,0,2,34,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,0,40,,Healthy,0,,0,0,0,8,34,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,0,40,,Healthy,0,,0,0,0,12,34,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,0,40,,Healthy,0,,0,0,0,8,34,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,0,40,,Healthy,0,,0,0,0,1,34,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,0,40,,Healthy,0,,0,0,0,12,34,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,2,0,40,,Healthy,0,,0,0,0,7,34,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,0,40,,Healthy,0,,0,0,0,6,34,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,0,40,,Healthy,0,,0,0,0,5,34,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,2,0,40,,Healthy,0,,0,0,0,10,34,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,0,40,,Healthy,0,,0,0,0,4,34,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,0,40,,Healthy,0,,0,0,0,10,35,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,0,40,,Healthy,0,,0,0,0,5,35,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,40,,Healthy,0,,0,0,0,4,35,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,0,40,,Healthy,0,,0,0,0,3,35,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,0,40,,Healthy,0,,0,0,0,5,35,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,0,40,,Healthy,0,,0,0,0,9,35,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,0,40,,Healthy,0,,0,0,0,10,35,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,0,40,,Healthy,0,,0,0,0,12,35,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,0,40,,Healthy,0,,0,0,0,1,35,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,0,40,,Healthy,0,,0,0,0,7,35,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,0,40,,Healthy,0,,0,0,0,3,35,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,0,40,,Healthy,0,,0,0,0,6,35,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,0,40,,Healthy,0,,0,0,0,8,35,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,0,40,,Healthy,0,,0,0,0,8,35,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,0,40,,Healthy,0,,0,0,0,1,35,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,0,40,,Healthy,0,,0,0,0,7,35,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,0,40,,Healthy,0,,0,0,0,12,35,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,0,40,,Healthy,0,,0,0,0,9,35,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,0,40,,Healthy,0,,0,0,0,4,35,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,0,40,,Healthy,0,,0,0,0,11,35,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,0,40,,Healthy,0,,0,0,0,2,35,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,0,40,,Healthy,0,,0,0,0,6,35,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,2,0,40,,Healthy,0,,0,0,0,2,35,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,0,40,,Healthy,0,,0,0,0,11,35,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,0,40,,Healthy,0,,0,0,0,8,36,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,0,40,,Healthy,0,,0,0,0,1,36,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,40,,Healthy,0,,0,0,0,3,36,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,0,40,,Healthy,0,,0,0,0,2,36,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,0,40,,Healthy,0,,0,0,0,12,36,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,0,40,,Healthy,0,,0,0,0,11,36,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,0,40,,Healthy,0,,0,0,0,12,36,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,0,40,,Healthy,0,,0,0,0,1,36,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,0,40,,Healthy,0,,0,0,0,4,36,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,0,40,,Healthy,0,,0,0,0,5,36,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,2,0,40,,Healthy,0,,0,0,0,6,36,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,0,40,,Healthy,0,,0,0,0,8,36,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,0,40,,Healthy,0,,0,0,0,10,36,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,0,40,,Healthy,0,,0,0,0,7,36,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,0,40,,Healthy,0,,0,0,0,4,36,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,0,40,,Healthy,0,,0,0,0,5,36,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,0,40,,Healthy,0,,0,0,0,10,36,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,0,40,,Healthy,0,,0,0,0,3,36,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,0,40,,Healthy,0,,0,0,0,2,36,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,0,40,,Healthy,0,,0,0,0,7,36,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,1,0,40,,Healthy,0,,0,0,0,9,36,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,0,40,,Healthy,0,,0,0,0,9,36,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,1,0,40,,Healthy,0,,0,0,0,11,36,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,0,40,,Healthy,0,,0,0,0,6,36,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,0,40,,Healthy,0,,0,0,0,2,37,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,0,40,,Healthy,0,,0,0,0,9,37,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,40,,Healthy,0,,0,0,0,7,37,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,0,40,,Healthy,0,,0,0,0,12,37,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,0,40,,Healthy,0,,0,0,0,10,37,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,0,40,,Healthy,0,,0,0,0,1,37,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,0,40,,Healthy,0,,0,0,0,12,37,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,0,40,,Healthy,0,,0,0,0,9,37,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,1,0,40,,Healthy,0,,0,0,0,8,37,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,0,40,,Healthy,0,,0,0,0,4,37,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,0,40,,Healthy,0,,0,0,0,6,37,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,0,40,,Healthy,0,,0,0,0,4,37,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,0,40,,Healthy,0,,0,0,0,5,37,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,0,40,,Healthy,0,,0,0,0,2,37,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,0,40,,Healthy,0,,0,0,0,3,37,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,0,40,,Healthy,0,,0,0,0,1,37,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,0,40,,Healthy,0,,0,0,0,3,37,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,2,0,40,,Healthy,0,,0,0,0,11,37,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,0,40,,Healthy,0,,0,0,0,7,37,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,2,0,40,,Healthy,0,,0,0,0,6,37,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,0,40,,Healthy,0,,0,0,0,5,37,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,0,40,,Healthy,0,,0,0,0,10,37,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,2,0,40,,Healthy,0,,0,0,0,8,37,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,0,40,,Healthy,0,,0,0,0,11,37,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,0,40,,Healthy,0,,0,0,0,1,38,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,2,0,40,,Healthy,0,,0,0,0,7,38,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,1,0,40,,Healthy,0,,0,0,0,9,38,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,0,40,,Healthy,0,,0,0,0,5,38,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,1,0,40,,Healthy,0,,0,0,0,3,38,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,0,40,,Healthy,0,,0,0,0,7,38,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,0,40,,Healthy,0,,0,0,0,1,38,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,0,40,,Healthy,0,,0,0,0,11,38,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,0,40,,Healthy,0,,0,0,0,5,38,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,2,0,40,,Healthy,0,,0,0,0,12,38,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,0,40,,Healthy,0,,0,0,0,4,38,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,0,40,,Healthy,0,,0,0,0,8,38,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,0,40,,Healthy,0,,0,0,0,8,38,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,1,0,40,,Healthy,0,,0,0,0,10,38,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,0,40,,Healthy,0,,0,0,0,2,38,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,0,40,,Healthy,0,,0,0,0,3,38,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,0,40,,Healthy,0,,0,0,0,2,38,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,0,40,,Healthy,0,,0,0,0,12,38,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,0,40,,Healthy,0,,0,0,0,6,38,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,2,0,40,,Healthy,0,,0,0,0,9,38,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,0,40,,Healthy,0,,0,0,0,11,38,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,0,40,,Healthy,0,,0,0,0,4,38,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,2,0,40,,Healthy,0,,0,0,0,10,38,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,0,40,,Healthy,0,,0,0,0,6,38,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,1,0,40,,Healthy,0,,0,0,0,8,39,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,0,40,,Healthy,0,,0,0,0,1,39,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,40,,Healthy,0,,0,0,0,5,39,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,1,0,40,,Healthy,0,,0,0,0,4,39,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,0,40,,Healthy,0,,0,0,0,1,39,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,2,0,40,,Healthy,0,,0,0,0,2,39,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,2,0,40,,Healthy,0,,0,0,0,11,39,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,1,0,40,,Healthy,0,,0,0,0,10,39,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,0,40,,Healthy,0,,0,0,0,7,39,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,0,40,,Healthy,0,,0,0,0,3,39,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,0,40,,Healthy,0,,0,0,0,12,39,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,2,0,40,,Healthy,0,,0,0,0,8,39,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,1,0,40,,Healthy,0,,0,0,0,2,39,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,0,40,,Healthy,0,,0,0,0,3,39,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,1,0,40,,Healthy,0,,0,0,0,5,39,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,1,0,40,,Healthy,0,,0,0,0,6,39,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,2,0,40,,Healthy,0,,0,0,0,6,39,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,0,40,,Healthy,0,,0,0,0,11,39,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,2,0,40,,Healthy,0,,0,0,0,9,39,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,0,40,,Healthy,0,,0,0,0,9,39,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,0,40,,Healthy,0,,0,0,0,4,39,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,1,0,40,,Healthy,0,,0,0,0,7,39,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,2,0,40,,Healthy,0,,0,0,0,10,39,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,2,0,40,,Healthy,0,,0,0,0,12,39,0,0,0,0,0,6c6ztdn7
+1,edt6ot19,Павлов Никита,-103,2,0,40,,Healthy,0,,0,0,0,4,40,0,0,0,0,0,6c6ztdn7
+2,s0zvzod2,Камалов Ринат,101,1,0,40,,Healthy,0,,0,0,0,8,40,0,0,0,0,0,6c6ztdn7
+3,aa3cpr6w,Меньшикова Ольга,5,2,0,40,,Healthy,0,,0,0,0,8,40,0,0,0,0,0,6c6ztdn7
+4,4ejeo48f,Чабан Александр,98,2,0,40,,Healthy,0,,0,0,0,9,40,0,0,0,0,0,6c6ztdn7
+5,ox7qv2xq,Морозов Анатолий,133,2,0,40,,Healthy,0,,0,0,0,2,40,0,0,0,0,0,6c6ztdn7
+6,968oaxnk,Кравченко Сергей,105,1,0,40,,Healthy,0,,0,0,0,11,40,0,0,0,0,0,6c6ztdn7
+7,n3qk631f,Колягина Вера Николаевна,97,1,0,40,,Healthy,0,,0,0,0,3,40,0,0,0,0,0,6c6ztdn7
+8,3bbde0vl,Галиева Мадина,-125,2,0,40,,Healthy,0,,0,0,0,11,40,0,0,0,0,0,6c6ztdn7
+9,lp6hd6ol,Антонина Тихонова,87,2,0,40,,Healthy,0,,0,0,0,10,40,0,0,0,0,0,6c6ztdn7
+10,1dwuwt50,Негримовский Дмитрий,88,1,0,40,,Healthy,0,,0,0,0,6,40,0,0,0,0,0,6c6ztdn7
+11,8z6wlfie,Филиппова Валерия Михайловна,56,1,0,40,,Healthy,0,,0,0,0,7,40,0,0,0,0,0,6c6ztdn7
+12,9hhqk4a7,Белоконь Леонид,116,1,0,40,,Healthy,0,,0,0,0,1,40,0,0,0,0,0,6c6ztdn7
+13,e3cj1c47,Сафина Эльмира,86,2,0,40,,Healthy,0,,0,0,0,12,40,0,0,0,0,0,6c6ztdn7
+14,97g5ruva,Липкин Константин,-429,2,0,40,,Healthy,0,,0,0,0,3,40,0,0,0,0,0,6c6ztdn7
+15,umewtyyz,Кихтенко Андрей,105,2,0,40,,Healthy,0,,0,0,0,5,40,0,0,0,0,0,6c6ztdn7
+16,p9cki7uj,Аминов Тимур,89,2,0,40,,Healthy,0,,0,0,0,7,40,0,0,0,0,0,6c6ztdn7
+17,4whopd0l,Денисенко Екатерина Васильевна,112,1,0,40,,Healthy,0,,0,0,0,4,40,0,0,0,0,0,6c6ztdn7
+18,xlttd1k1,Тимакова Марина,-415,1,0,40,,Healthy,0,,0,0,0,5,40,0,0,0,0,0,6c6ztdn7
+19,4353pahu,Малин Алексей,96,1,0,40,,Healthy,0,,0,0,0,10,40,0,0,0,0,0,6c6ztdn7
+20,1pam1cqo,,-73,1,0,40,,Healthy,0,,0,0,0,12,40,0,0,0,0,0,6c6ztdn7
+21,x0bx7vbv,Кучеренко Тамара,125,2,0,40,,Healthy,0,,0,0,0,1,40,0,0,0,0,0,6c6ztdn7
+22,uglrd2pi,Шалимов Валентин,-85,2,0,40,,Healthy,0,,0,0,0,6,40,0,0,0,0,0,6c6ztdn7
+23,vea8a62v,,103,1,0,40,,Healthy,0,,0,0,0,9,40,0,0,0,0,0,6c6ztdn7
+24,pc2mgvm5,Молчанова Вероника,111,1,0,40,,Healthy,0,,0,0,0,2,40,0,0,0,0,0,6c6ztdn7
